@@ -1,4 +1,4 @@
-package SOLIDPrinciples.BadCode;
+package SOLIDPrinciples.SRP.BadCode;
 
 public class Invoice {
 

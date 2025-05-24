@@ -1,4 +1,4 @@
-package oops;
+package OOPS;
 
 public class UPI implements PaymentMethod{
 

@@ -1,4 +1,4 @@
-package oops;
+package OOPS;
 
 abstract public class Card implements PaymentMethod {
 

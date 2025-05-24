@@ -1,4 +1,4 @@
-package SOLIDPrinciples.GoodCode;
+package SOLIDPrinciples.SRP.GoodCode;
 
 public class InvoiceRepository {
 
